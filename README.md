@@ -1,6 +1,6 @@
 # figarm
 
-`figarm` è un semplice port in Assembly ARM di [figa](github.com/crisbal/kslf.git), celebre pacchetto per Arch Linux, una volta disponibile nella AUR ma bannato dal mantenitore @il\_muflone per comprensibili ragioni politically correct:
+`figarm` è un semplice port in Assembly ARM di [figa](https://github.com/crisbal/kslf.git), celebre pacchetto per Arch Linux, una volta disponibile nella AUR ma bannato dal mantenitore @il\_muflone per comprensibili ragioni politically correct:
 
 ![](https://i.imgur.com/1TQXOgX.png)
 
